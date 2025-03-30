@@ -1,2 +1,2 @@
 # Matterhorn
-Bass Compressor
+Compressor
