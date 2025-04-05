@@ -1,2 +1,2 @@
 # Matterhorn<bbr>
-Use gain into plugin too determine amount of compression. Lower gain into Matterhorn if audio pumping occurs.
+Use gain into plugin too determine amount of compression. Lower gain into Matterhorn if audio pumping occurs. Try on DAW plugin synths.
